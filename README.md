@@ -1,4 +1,4 @@
-Expense manager to track your income and expenses. 
+Expense manager built with React.js and the Context API to track your income and expenses. 
 the web app is currently under construction. Later on, I will add data persistence with mongodb, 
 input and user validation and other features such as date of expense/income and ability to add more categories.
 This are the main views: 
