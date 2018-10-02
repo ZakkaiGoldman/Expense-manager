@@ -4,7 +4,7 @@ input and user validation and other features such as date of expense/income and 
 This are the main views: 
 
 pie chart of all expenses:
-![alt text](https://image.ibb.co/cx1B4K/piechart.png)
+![alt text](https://image.ibb.co/fBjyjK/piechart_2_PNG.png)
 
 list of expenses and income:
 ![alt text](https://image.ibb.co/cBfAye/data.png)
