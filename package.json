@@ -1,0 +1,26 @@
+{
+  "name": "expense-tracker",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "chart.js": "^2.7.2",
+    "react": "^16.5.2",
+    "react-chartjs-2": "^2.7.4",
+    "react-dom": "^16.5.2",
+    "react-minimal-pie-chart": "^3.3.0",
+    "react-scripts": "1.1.5",
+    "reactstrap": "^6.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "Expense manager to track your income and expenses",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "Zakkai Goldman",
+  "license": "MIT"
+}
