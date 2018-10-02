@@ -1,15 +1,13 @@
-Expense manager to track your income and expenses. 
+Expense manager built with React.js and the Context API to track your income and expenses. 
 the web app is currently under construction. Later on, I will add data persistence with mongodb, 
 input and user validation and other features such as date of expense/income and ability to add more categories.
 This are the main views: 
 
+pie chart of all expenses:
+![alt text](https://image.ibb.co/fBjyjK/piechart_2_PNG.png)
 
-
-
-
-
-
-
+list of expenses and income:
+![alt text](https://image.ibb.co/cBfAye/data.png)
 
 _________________________________________________________________________________________________________________________
 in order to view the app on your machine, clone or download the folder then navigate to the folder with your cmd/terminal,
@@ -17,7 +15,7 @@ and write: npm install
 and then: npm start 
 
 the app will open at http://localhost:3000/
-
+_________________________________________________________________________________________________________________________
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
