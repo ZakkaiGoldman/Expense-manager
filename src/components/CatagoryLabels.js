@@ -5,7 +5,7 @@ import { Consumer } from '../context';
 const iconForTitle = (title) => {
     switch (title) {
         case 'food':
-            return <i className="fas fa-utensils fa-2x"></i>;
+            return <i className="fas fa-lemon fa-2x"></i>;
         case 'housing':
             return <i className="fas fa-home fa-2x"></i>;
         case 'transportation':

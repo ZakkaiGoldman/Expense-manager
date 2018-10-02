@@ -50,7 +50,7 @@ export class Provider extends Component {
         //pie chart data
         catagories:
             [
-                { title: "food", color: "#354458", value: 300, id: 0 },
+                { title: "food", color: "#2e5491", value: 300, id: 0 },
                 { title: "housing", color: "#3A9AD9", value: 45, id:1 },
                 { title: "transportation", color: "#29ABA4", value: 30, id:2 },
                 { title: "entertainment", color: "#E9E0D6", value: 60, id:3 },
