@@ -3,13 +3,11 @@ the web app is currently under construction. Later on, I will add data persisten
 input and user validation and other features such as date of expense/income and ability to add more categories.
 This are the main views: 
 
+pie chart of all expenses:
+![alt text](https://image.ibb.co/cx1B4K/piechart.png)
 
-
-
-
-
-
-
+list of expenses and income:
+![alt text](https://image.ibb.co/cBfAye/data.png)
 
 _________________________________________________________________________________________________________________________
 in order to view the app on your machine, clone or download the folder then navigate to the folder with your cmd/terminal,
@@ -17,7 +15,7 @@ and write: npm install
 and then: npm start 
 
 the app will open at http://localhost:3000/
-
+_________________________________________________________________________________________________________________________
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
